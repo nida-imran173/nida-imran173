@@ -6,9 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Data Science**
-
-- 🤝 I’m looking for help with **Data Science**
+- 🌱 I’m currently learning **Mern Stack**
 
 - 💬 Ask me about **Python**
 
